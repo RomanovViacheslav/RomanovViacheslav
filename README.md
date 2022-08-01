@@ -1,4 +1,6 @@
 ### Hi there 👋
+Маленький (small):  
+[![codewars](https://www.codewars.com/users/Romanov%20Viacheslav/badges/small)](https://www.codewars.com/users/Romanov%20Viacheslav) 
 
 <!--
 **RomanovViacheslav/RomanovViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
