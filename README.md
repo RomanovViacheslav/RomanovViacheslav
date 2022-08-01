@@ -1,5 +1,5 @@
 ### Hi there 👋
-Маленький (small):  
+
 [![codewars](https://www.codewars.com/users/Romanov%20Viacheslav/badges/small)](https://www.codewars.com/users/Romanov%20Viacheslav) 
 
 <!--
