@@ -6,7 +6,7 @@ Here are some of my notable projects:
 
 1. 📱 **Messenger** - a React client for a messaging application. You can find the code [here](https://github.com/RomanovViacheslav/Messenger_client).
 
-   🌐 **ServerSN** - an Express server for supporting the Messenger application. You can find the code [here](https://github.com/RomanovViacheslav/serverSN).
+   🌐 **Express server** for supporting the **Messenger application**. You can find the code [here](https://github.com/RomanovViacheslav/serverSN).
 
 2. ✅ **TODO_MUI** - a project for managing to-do lists using React. You can find the code [here](https://github.com/RomanovViacheslav/TODO_MUI).
 
