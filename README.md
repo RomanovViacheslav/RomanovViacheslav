@@ -12,8 +12,6 @@ Here are some of my notable projects:
 
 3. **Sticker Board** - a React application using Happi.js for creating a virtual sticker board. You can find the code [here](https://github.com/RomanovViacheslav/Sticker_Board).
 
-Feel free to check out these projects and provide any feedback or suggestions. Don't hesitate to contact me if you have any questions or would like to collaborate!
-
 [![codewars](https://www.codewars.com/users/Romanov%20Viacheslav/badges/small)](https://www.codewars.com/users/Romanov%20Viacheslav)
 
 <!--
