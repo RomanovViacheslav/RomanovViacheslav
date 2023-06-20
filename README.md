@@ -10,7 +10,7 @@ Here are some of my notable projects:
 
 2. ✅ **TODO_MUI** - a project for managing to-do lists using React. You can find the code [here](https://github.com/RomanovViacheslav/TODO_MUI).
 
-3. 📌 **Sticker Board** - a React application using Happi.js for creating a virtual sticker board. You can find the code [here](https://github.com/RomanovViacheslav/Sticker_Board).
+3. 📌 **Sticker Board** - a client-server application for creating and publishing announcements. It uses React for the client-side and Happi.js for the server-side. You can find the code [here](https://github.com/RomanovViacheslav/Sticker_Board).
 
 [![codewars](https://www.codewars.com/users/Romanov%20Viacheslav/badges/small)](https://www.codewars.com/users/Romanov%20Viacheslav)
 
