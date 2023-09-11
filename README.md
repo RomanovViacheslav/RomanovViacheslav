@@ -7,10 +7,12 @@ Here are some of my notable projects:
 1. 📱 **Messenger** - a React client for a messaging application. You can find the code [here](https://github.com/RomanovViacheslav/Messenger_client).
 
    🌐 **Express server** for supporting the **Messenger application**. You can find the code [here](https://github.com/RomanovViacheslav/serverSN).
+   
+3. 🎨 **Art Gallery** - a React application that serves as an art gallery for showcasing paintings. You can find the code [here](https://github.com/RomanovViacheslav/artGallery).
 
-2. ✅ **TODO_MUI** - a project for managing to-do lists using React. You can find the code [here](https://github.com/RomanovViacheslav/TODO_MUI).
+4. ✅ **TODO_MUI** - a project for managing to-do lists using React. You can find the code [here](https://github.com/RomanovViacheslav/TODO_MUI).
 
-3. 📌 **Sticker Board** - a client-server application for creating and publishing announcements. It uses React for the client-side and Happi.js for the server-side. You can find the code [here](https://github.com/RomanovViacheslav/Sticker_Board).
+5. 📌 **Sticker Board** - a client-server application for creating and publishing announcements. It uses React for the client-side and Happi.js for the server-side. You can find the code [here](https://github.com/RomanovViacheslav/Sticker_Board).
 
 [![codewars](https://www.codewars.com/users/Romanov%20Viacheslav/badges/small)](https://www.codewars.com/users/Romanov%20Viacheslav)
 
