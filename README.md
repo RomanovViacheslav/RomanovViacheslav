@@ -18,15 +18,15 @@ Here are some of my notable projects:
 
 ### Technologies
 
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-![React](https://img.shields.io/badge/-React-61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-764ABC)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6)
-![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"> <!-- JavaScript -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50"> <!-- TypeScript -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"> <!-- React -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50" height="50"> <!-- Redux -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="50" height="50"> <!-- Vue.js -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50" height="50"> <!-- HTML5 -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50"> <!-- CSS3 -->
+<img src="https://material-ui.com/static/logo_raw.svg" width="50" height="50"> <!-- Material-UI -->
+<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="50" height="50"> <!-- Ant Design -->
 <!--
 **RomanovViacheslav/RomanovViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
