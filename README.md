@@ -25,8 +25,7 @@ Here are some of my notable projects:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="50" height="50"> <!-- Vue.js -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50" height="50"> <!-- HTML5 -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50"> <!-- CSS3 -->
-<img src="https://material-ui.com/static/logo_raw.svg" width="50" height="50"> <!-- Material-UI -->
-<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="50" height="50"> <!-- Ant Design -->
+
 <!--
 **RomanovViacheslav/RomanovViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
