@@ -18,7 +18,7 @@ Here are some of my notable projects:
 
 ### Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![React](https://img.shields.io/badge/-React-61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC)
