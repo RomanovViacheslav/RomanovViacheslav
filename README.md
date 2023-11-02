@@ -18,15 +18,15 @@ Here are some of my notable projects:
 
 ### Technologies
 
-![JavaScript](path/to/javascript_logo.png)
-![TypeScript](path/to/typescript_logo.png)
-![React](path/to/react_logo.png)
-![Redux](path/to/redux_logo.png)
-![Vue.js](path/to/vue_logo.png)
-![HTML5](path/to/html_logo.png)
-![CSS3](path/to/css_logo.png)
-![Material-UI](path/to/material_ui_logo.png)
-![Ant Design](path/to/ant_design_logo.png)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![React](https://img.shields.io/badge/-React-61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-764ABC)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE)
 <!--
 **RomanovViacheslav/RomanovViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
