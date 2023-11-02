@@ -29,7 +29,7 @@ Here are some of my notable projects:
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="30" height="30"> <!-- Node.js -->
 <img src="https://material-ui.com/static/logo.svg" width="30" height="30"> <!-- Material-UI -->
 <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="30" height="30"> <!-- Ant Design -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="30" height="30"> <!-- Express -->
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="30" height="30"> <!-- Express -->
 <!--
 **RomanovViacheslav/RomanovViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
