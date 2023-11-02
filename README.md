@@ -18,17 +18,17 @@ Here are some of my notable projects:
 
 ### Technologies
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"> <!-- JavaScript -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50"> <!-- TypeScript -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"> <!-- React -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50" height="50"> <!-- Redux -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="50" height="50"> <!-- Vue.js -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50" height="50"> <!-- HTML5 -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50"> <!-- CSS3 -->
-<img src="https://github.com/emotion-js/emotion/raw/main/emotion.png" width="50" height="50"> <!-- Emotion.js -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50"> <!-- Node.js -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" height="30"> <!-- JavaScript -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30" height="30"> <!-- TypeScript -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30" height="30"> <!-- React -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="30" height="30"> <!-- Redux -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="30" height="30"> <!-- Vue.js -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="30" height="30"> <!-- HTML5 -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30" height="30"> <!-- CSS3 -->
+<img src="https://github.com/emotion-js/emotion/raw/main/emotion.png" width="50" height="30"> <!-- Emotion.js -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="30" height="30"> <!-- Node.js -->
 <img src="https://material-ui.com/static/logo.svg" width="50" height="50"> <!-- Material-UI -->
-<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="50" height="50"> <!-- Ant Design -->
+<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="30" height="30"> <!-- Ant Design -->
 <!--
 **RomanovViacheslav/RomanovViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
