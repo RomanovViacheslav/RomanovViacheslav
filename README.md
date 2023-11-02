@@ -26,7 +26,6 @@ Here are some of my notable projects:
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50" height="50"> <!-- HTML5 -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50"> <!-- CSS3 -->
 <img src="https://github.com/emotion-js/emotion/raw/main/emotion.png" width="50" height="50"> <!-- Emotion.js -->
-<img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="50" height="50"> <!-- Sass -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50"> <!-- Node.js -->
 <img src="https://material-ui.com/static/logo.svg" width="50" height="50"> <!-- Material-UI -->
 <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="50" height="50"> <!-- Ant Design -->
